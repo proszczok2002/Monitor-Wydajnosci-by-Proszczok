@@ -31,10 +31,10 @@ When reporting a bug, describe what happened, how to reproduce it, and the NVDA 
 
 ## Aktualizacje / Updates
 
-Automatyczny aktualizator pobiera informacje i instalator **wyłącznie z [proszczok.pl](https://proszczok.pl/nvdamonitor/)**. GitHub służy jako strona informacyjna i miejsce zgłoszeń; wydania na GitHubie odsyłają do oficjalnego pliku na stronie autora.
+Automatyczny aktualizator pobiera informacje i instalator **wyłącznie z [proszczok.pl](https://proszczok.pl/nvdamonitor/)**. GitHub udostępnia dodatkową kopię tego samego instalatora do ręcznego pobrania oraz służy do informacji o wersjach i zgłoszeń.
 
-The built-in updater obtains update information and downloads **only from [proszczok.pl](https://proszczok.pl/nvdamonitor/)**. GitHub is for project information and issues. GitHub release notes link to the official download.
+The built-in updater obtains update information and downloads **only from [proszczok.pl](https://proszczok.pl/nvdamonitor/)**. GitHub provides an identical installer for manual download, release information and issues.
 
-To repozytorium zawiera tylko opis, bez kodu dodatku i bez instalatora. Sam publicznie dostępny plik `.nvda-addon` jest archiwum ZIP zawierającym pliki Pythona. Automatyczne archiwa „Source code” na GitHubie zawierają wyłącznie treść tego repozytorium. Licencja dodatku: GNU GPL 2.0 lub nowsza; informacje o autorach są w paczce. [Polityka prywatności / Privacy policy](https://proszczok.pl/privacy.html).
+Drzewo tego repozytorium zawiera tylko opis, bez kodu dodatku. Instalator jest załącznikiem wydania GitHub. Sam publicznie dostępny plik `.nvda-addon` jest archiwum ZIP zawierającym pliki Pythona. Automatyczne archiwa „Source code” na GitHubie zawierają wyłącznie treść repozytorium, a nie instalator. Licencja dodatku: GNU GPL 2.0 lub nowsza; informacje o autorach są w paczce. [Polityka prywatności / Privacy policy](https://proszczok.pl/privacy.html).
 
-This repository contains information only, with no add-on code or installer. The publicly downloadable `.nvda-addon` is a ZIP archive containing Python files. GitHub's automatic “Source code” archives contain only this repository. The add-on is licensed under GNU GPL 2.0 or later; author credits are included in the package.
+The repository tree contains information only, with no add-on code. The installer is attached to the GitHub release. The downloadable `.nvda-addon` is a ZIP archive containing Python files. GitHub's automatic “Source code” archives contain only the repository content, not the installer. The add-on is licensed under GNU GPL 2.0 or later; author credits are included in the package.
