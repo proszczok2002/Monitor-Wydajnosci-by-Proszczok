@@ -8,6 +8,7 @@ Dodatek do czytnika ekranu NVDA dla Windows. Odczytuje informacje o CPU, RAM, dy
 **Aktualna wersja / Current version: 3.15**
 
 - [Pobierz dodatek `.nvda-addon` z proszczok.pl / Download from proszczok.pl](https://proszczok.pl/nvdamonitor/MonitorWydajnosciByProszczok-3.15.nvda-addon)
+- [Pobierz ten sam dodatek z GitHuba / Download the same add-on from GitHub](https://github.com/proszczok2002/Monitor-Wydajnosci-by-Proszczok/releases/download/v3.15/MonitorWydajnosciByProszczok-3.15.nvda-addon)
 - [Strona dodatku i instrukcja / Add-on page and instructions](https://proszczok.pl/nvdamonitor/)
 - SHA-256 instalatora / installer: `4cc2ae2c5b831552fb9013e9b908bf05ffc46c643308dc510a816e0075a31477` (127649 bajtów / bytes)
 
