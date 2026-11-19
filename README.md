@@ -5,14 +5,14 @@ Dodatek do czytnika ekranu NVDA dla Windows. Odczytuje informacje o CPU, RAM, dy
 ## Pobierz / Download
 
 <!-- GENERATED_RELEASE_START -->
-**Aktualna wersja / Current version: 3.15**
+**Aktualna wersja / Current version: 3.16**
 
-- [Pobierz dodatek `.nvda-addon` z proszczok.pl / Download from proszczok.pl](https://proszczok.pl/nvdamonitor/MonitorWydajnosciByProszczok-3.15.nvda-addon)
-- [Pobierz ten sam dodatek z GitHuba / Download the same add-on from GitHub](https://github.com/proszczok2002/Monitor-Wydajnosci-by-Proszczok/releases/download/v3.15/MonitorWydajnosciByProszczok-3.15.nvda-addon)
+- [Pobierz dodatek `.nvda-addon` z proszczok.pl / Download from proszczok.pl](https://proszczok.pl/nvdamonitor/MonitorWydajnosciByProszczok-3.16.nvda-addon)
+- [Pobierz ten sam dodatek z GitHuba / Download the same add-on from GitHub](https://github.com/proszczok2002/Monitor-Wydajnosci-by-Proszczok/releases/download/v3.16/MonitorWydajnosciByProszczok-3.16.nvda-addon)
 - [Strona dodatku i instrukcja / Add-on page and instructions](https://proszczok.pl/nvdamonitor/)
-- SHA-256 instalatora / installer: `4cc2ae2c5b831552fb9013e9b908bf05ffc46c643308dc510a816e0075a31477` (127649 bajtów / bytes)
+- SHA-256 instalatora / installer: `f33077f7555ef00476df72b8a8615c113c1135df2443018205f1eadcbccedcad` (127673 bajtów / bytes)
 
-Wersja 3.15 dodaje w menu formularz zgłoszenia z nickiem i opisem. Zgłoszenie jest wysyłane dopiero po zatwierdzeniu obu pól; serwer przekazuje je na Telegrama. Dane sprzętu nie są dołączane automatycznie.
+Wersja 3.16 przywraca jedną pozycję w menu Narzędzia i jedno okno ustawień z czterema sekcjami. Pomoc i wsparcie zawiera aktualizacje, instrukcję, historię zmian, kontakt, GitHub, PayPal, Revolut i stronę autora. Raport CPU i zegarów mówi teraz Wątek zamiast Wątek logiczny.
 <!-- GENERATED_RELEASE_END -->
 
 Otwórz pobrany plik, potwierdź instalację w NVDA i uruchom NVDA ponownie. Wymagane są Windows i NVDA 2024.1 lub nowszy.
