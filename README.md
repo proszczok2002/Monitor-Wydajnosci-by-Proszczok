@@ -2,6 +2,12 @@
 
 Dodatek do czytnika ekranu NVDA dla Windows. Odczytuje informacje o CPU, RAM, dyskach, sieci, baterii, systemie oraz kartach AMD, NVIDIA i Intel. Wyniki podaje głosem, może je skopiować lub odczytywać okresowo. W Eksploratorze i na pulpicie skrót `NVDA+Ctrl+Alt+S` podaje rozmiar pliku lub folderu; dla dysku podaje zajęte i wolne miejsce.
 
+## Przed instalacją / Before installation
+
+Monitor Wydajności działa samodzielnie w NVDA. Przed instalacją wyłącz lub odinstaluj wszystkie inne dodatki NVDA do monitorowania sprzętu, takie jak Resource Monitor, AMD Monitor, NVIDIA Monitor i GPU Monitor. Tylko jeden taki dodatek powinien być aktywny, aby uniknąć konfliktów skrótów.
+
+Performance Monitor works independently in NVDA. Before installing, disable or uninstall all other NVDA hardware monitoring add-ons, such as Resource Monitor, AMD Monitor, NVIDIA Monitor and GPU Monitor. Keep only one hardware monitoring add-on active to avoid shortcut conflicts.
+
 ## Pobierz / Download
 
 <!-- GENERATED_RELEASE_START -->
