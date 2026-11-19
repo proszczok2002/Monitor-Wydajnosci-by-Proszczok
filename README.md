@@ -22,7 +22,7 @@ Open the downloaded file, confirm installation in NVDA, then restart NVDA. Requi
 ## Zgłoszenia i kontakt / Issues and contact
 
 - [Zgłoś problem lub pomysł na GitHubie / Report a problem or suggest a feature](https://github.com/proszczok2002/Monitor-Wydajnosci-by-Proszczok/issues/new/choose)
-- W dodatku: `NVDA → Narzędzia → Monitor Wydajności by Proszczok → Wsparcie i kontakt → Kontakt / wyślij zgłoszenie`.
+- W dodatku: `NVDA → Narzędzia → Monitor Wydajności by Proszczok — ustawienia → Pomoc i wsparcie → Kontakt / wyślij zgłoszenie`.
 - [Strona autora / Author's website](https://proszczok.pl/)
 
 Przy zgłoszeniu problemu napisz, co się stało, jak to odtworzyć, oraz podaj wersję NVDA i dodatku. Nie publikuj haseł, tokenów ani prywatnych logów.
