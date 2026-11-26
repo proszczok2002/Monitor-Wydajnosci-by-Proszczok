@@ -11,14 +11,14 @@ Performance Monitor works independently in NVDA. Before installing, disable or u
 ## Pobierz / Download
 
 <!-- GENERATED_RELEASE_START -->
-**Aktualna wersja / Current version: 3.16**
+**Aktualna wersja / Current version: 3.17**
 
-- [Pobierz dodatek `.nvda-addon` z proszczok.pl / Download from proszczok.pl](https://proszczok.pl/nvdamonitor/MonitorWydajnosciByProszczok-3.16.nvda-addon)
-- [Pobierz ten sam dodatek z GitHuba / Download the same add-on from GitHub](https://github.com/proszczok2002/Monitor-Wydajnosci-by-Proszczok/releases/download/v3.16/MonitorWydajnosciByProszczok-3.16.nvda-addon)
+- [Pobierz dodatek `.nvda-addon` z proszczok.pl / Download from proszczok.pl](https://proszczok.pl/nvdamonitor/MonitorWydajnosciByProszczok-3.17.nvda-addon)
+- [Pobierz ten sam dodatek z GitHuba / Download the same add-on from GitHub](https://github.com/proszczok2002/Monitor-Wydajnosci-by-Proszczok/releases/download/v3.17/MonitorWydajnosciByProszczok-3.17.nvda-addon)
 - [Strona dodatku i instrukcja / Add-on page and instructions](https://proszczok.pl/nvdamonitor/)
-- SHA-256 instalatora / installer: `f33077f7555ef00476df72b8a8615c113c1135df2443018205f1eadcbccedcad` (127673 bajtów / bytes)
+- SHA-256 instalatora / installer: `302dad6ee8af5aef764a1339349f713d1b63c97a32eb381e3ec78338725d329b` (135566 bajtów / bytes)
 
-Wersja 3.16 przywraca jedną pozycję w menu Narzędzia i jedno okno ustawień z czterema sekcjami. Pomoc i wsparcie zawiera aktualizacje, instrukcję, historię zmian, kontakt, GitHub, PayPal, Revolut i stronę autora. Raport CPU i zegarów mówi teraz Wątek zamiast Wątek logiczny.
+W sekcji Karty sieciowe można wybrać, które karty Ethernet i Wi-Fi mają trafiać do raportów. Domyślnie odczytywane są tylko aktywne karty fizyczne, z pominięciem kart wirtualnych. Wybór działa w obu skrótach sieciowych i pełnym raporcie systemu. Windows mierzy transfer tylko na wybranych kartach. Usprawniono odczyty Wi-Fi oraz ograniczono powtarzanie zapytań o telemetrię AMD i Intel.
 <!-- GENERATED_RELEASE_END -->
 
 Otwórz pobrany plik, potwierdź instalację w NVDA i uruchom NVDA ponownie. Wymagane są Windows i NVDA 2024.1 lub nowszy.
