@@ -25,6 +25,12 @@ Otwórz pobrany plik, potwierdź instalację w NVDA i uruchom NVDA ponownie. Wym
 
 Open the downloaded file, confirm installation in NVDA, then restart NVDA. Requires Windows and NVDA 2024.1 or later.
 
+## Karty sieciowe / Network adapters
+
+Domyślnie raport podaje tylko aktywne fizyczne karty Ethernet i Wi-Fi. Otwórz `NVDA → Narzędzia → Monitor Wydajności by Proszczok — ustawienia → Karty sieciowe`, wybierz „Wybór ręczny” i zaznacz potrzebne karty spacją. Wybór obowiązuje w `NVDA+Shift+4`, `NVDA+Shift+Ctrl+4` i w części sieciowej pełnego raportu `NVDA+Shift+Ctrl+0`.
+
+By default, reports include only active physical Ethernet and Wi-Fi adapters. Open `NVDA → Tools → Performance Monitor by Proszczok — settings → Network adapters`, select Manual selection and press Space to check the adapters you want. This applies to `NVDA+Shift+4`, `NVDA+Shift+Ctrl+4` and the network section of the full report under `NVDA+Shift+Ctrl+0`.
+
 ## Zgłoszenia i kontakt / Issues and contact
 
 - [Zgłoś problem lub pomysł na GitHubie / Report a problem or suggest a feature](https://github.com/proszczok2002/Monitor-Wydajnosci-by-Proszczok/issues/new/choose)
