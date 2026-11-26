@@ -41,6 +41,12 @@ Przy zgłoszeniu problemu napisz, co się stało, jak to odtworzyć, oraz podaj 
 
 When reporting a bug, describe what happened, how to reproduce it, and the NVDA and add-on versions. Do not post passwords, tokens or private logs.
 
+## Archiwum wydań / Release archive
+
+Strona autora udostępnia instalator najnowszej wersji. Wcześniejsze instalatory są dostępne w archiwum wydań. [Wszystkie wydania na GitHubie](https://github.com/proszczok2002/Monitor-Wydajnosci-by-Proszczok/releases)
+
+The author's site hosts the latest installer. Earlier installers are available in the release archive. [All releases on GitHub](https://github.com/proszczok2002/Monitor-Wydajnosci-by-Proszczok/releases)
+
 ## Aktualizacje / Updates
 
 Automatyczny aktualizator pobiera informacje i instalator **wyłącznie z [proszczok.pl](https://proszczok.pl/nvdamonitor/)**. GitHub udostępnia dodatkową kopię tego samego instalatora do ręcznego pobrania oraz służy do informacji o wersjach i zgłoszeń.
